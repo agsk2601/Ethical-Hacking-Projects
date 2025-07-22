@@ -45,9 +45,9 @@ python3 Port-Scanning.py -t 45.33.32.156
 ```
 ### Output - default port scan is from 1 to 1024
 
-[+] Scanning 45.33.32.156 ...
-[+] Open port 22 .
-[+] Open port 80 .
+[+] Scanning 45.33.32.156 ... \n
+[+] Open port 22 . \n
+[+] Open port 80 . \n
 
 ### Custom Port Range:
 ``` bash
@@ -57,9 +57,9 @@ python3 Port-Scanner.py -t 45.33.32.156 -p 20-443
 scan the only selected port 
 ---
 
-Scanning 45.33.32.156...
-[+] Open Port 22 .
-[+] Open Port 80 .
+Scanning 45.33.32.156... \n
+[+] Open Port 22 . \n
+[+] Open Port 80 . \n
 
 ### Scan a Subnet:
 ```bash 
@@ -68,20 +68,20 @@ python3 Port-Scanner.py -t 45.33.32.156/24 -p 80-100
 ### Output 
 scan the entire subnet 
 --- 
-Scanning 45.33.32.0...
-Scanning 45.33.32.1...
-Scanning 45.33.32.2...
-Scanning 45.33.32.3...
-Scanning 45.33.32.4...
-Scanning 45.33.32.5...
-[+] Open Port 80 .
-Scanning 45.33.32.6...
-Scanning 45.33.32.7...
-Scanning 45.33.32.8...
-Scanning 45.33.32.9...
-[+] Open Port 80 .
-Scanning 45.33.32.10...
-[+] Open Port 80 .
+Scanning 45.33.32.0... \n
+Scanning 45.33.32.1... \n
+Scanning 45.33.32.2... \n
+Scanning 45.33.32.3... \n
+Scanning 45.33.32.4... \n
+Scanning 45.33.32.5... \n
+[+] Open Port 80 . \n
+Scanning 45.33.32.6... \n
+Scanning 45.33.32.7... \n
+Scanning 45.33.32.8... \n
+Scanning 45.33.32.9... \n
+[+] Open Port 80 . \n
+Scanning 45.33.32.10... \n
+[+] Open Port 80 . \n
 
 ## 🔒 Legal Disclaimer
 This tool is created for educational purposes only. You are responsible for complying with all applicable laws. The author assumes no liability for any misuse or damage caused.
