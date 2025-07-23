@@ -1,0 +1,17 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# System files
+.DS_Store
+
+# Editor settings
+.vscode/
+.idea/
+
+# Output & Wordlists
+found.txt
+wordlists/subdomains.txt
