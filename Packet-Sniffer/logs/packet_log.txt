@@ -1,0 +1,20 @@
+[2025-07-28 21:20:01] [33m[!] packet from untrusted MAC: 5c:35:fc:58:34:40
+[2025-07-28 21:20:39] [33m[!] packet from untrusted MAC: 5c:35:fc:58:34:40
+[2025-07-28 21:20:42] [33m[!] packet from untrusted MAC: fe:03:59:45:76:29
+[2025-07-28 21:20:46] [33m[!] packet from untrusted MAC: 86:10:af:c3:b4:b4
+[2025-07-28 21:20:46] 
+[36m [IP] 192.168.1.170 -> 224.0.0.251 Proto: 17 
+[2025-07-28 21:20:46] [32m[UDP] Port: 5353 -> 5353
+[2025-07-28 21:20:46] [33m[DNS] Query for: _rdlink._tcp.local.
+[2025-07-28 21:20:47] 
+[36m [IP] 192.168.1.253 -> 224.0.0.251 Proto: 17 
+[2025-07-28 21:20:47] [32m[UDP] Port: 5353 -> 5353
+[2025-07-28 21:20:47] [33m[DNS] Query for: main.vscode-cdn.net.
+[2025-07-28 21:20:47] [33m[DNS] Query for: main.vscode-cdn.net.
+[2025-07-28 21:20:47] [33m[DNS] Query for: main.vscode-cdn.net.
+[2025-07-28 21:20:47] [33m[DNS] Query for: main.vscode-cdn.net.
+[2025-07-28 21:20:47] [33m[DNS] Query for: main.vscode-cdn.net.
+[2025-07-28 21:20:47] [33m[DNS] Query for: main.vscode-cdn.net.
+[2025-07-28 21:20:52] [31m [!] Possible ARP spoofing from 192.168.1.1 [5c:35:fc:58:34:40]
+[2025-07-28 21:22:27] [33m[!] packet from untrusted MAC: 5c:35:fc:58:34:40
+[2025-07-28 21:22:29] [31m [!] Possible ARP spoofing from 192.168.1.1 [5c:35:fc:58:34:40]
